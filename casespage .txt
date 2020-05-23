@@ -4,7 +4,7 @@
 <title>The role of computer engineering in number of cases and graphs of it</title>
 <style>
     body{
-        background: rgb(58, 58, 58);
+        background: off-white;
         color: grey;
         margin:5;
     }
@@ -12,7 +12,7 @@
 </head>
 <body>
 <ul>
-<li><b><a href="mainpage.html">Computer engineering role in Covid–19 pandemic</a></b></li>
+<li><b><a href="index.html">Computer engineering role in Covidâ€“19 pandemic</a></b></li>
 <li><b><a href="symptomspage.html">Symptoms of covid -19 </a></b></li>
 <li><b><a href="calcpage.html">The role of computer engineering  in covid -19 pandemic in calculations and information</a></b></li>
 <li><b><a href="casespage.html">Role of computer  engineering in  number  of cases and graphs of it</a></b></li>
