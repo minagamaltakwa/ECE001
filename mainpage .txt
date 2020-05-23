@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Computer engineering role in Covid–19 pandemic</title>
+<style>
+    body{
+        background: rgb(58, 58, 58);
+        color: grey;
+        margin:5;
+    }
+</style>
+</head>
+<body>
+<h1><center>Computer engineering role in Covid–19 pandemic</center></h1>
+<p> coronavirus is a kind of virus that can causes an infection in your nose, sinuses, or upper throat. Most coronaviruses aren't dangerous In early 2020, after a December 2019  in China, the World Health Organization identified SARS-CoV-2 as a new type of corona virus COVID-19 is a disease caused by <b>(  SARS-CoV-2  )</b> that  what doctors call a respiratory tract infection. It can affect your upper respiratory system  (sinuses, nose, and throat or  lungs).</p>
+<ul>
+<li><b><a href="mainpage.html">Computer engineering role in Covid–19 pandemic</a></b></li>
+<li><b><a href="symptomspage.html">Symptoms of covid -19 </a></b></li>
+<li><b><a href="calcpage.html">The role of computer engineering  in covid -19 pandemic in calculations and information</a></b></li>
+<li><b><a href="casespage.html">Role of computer  engineering in  number  of cases and graphs of it</a></b></li>
+<li><b><a href="apppage.html">Computer applications to help in covid -19 pandemic</a></b></li>
+<li><b><a href="scipage.html">Computer scientists role in this topic</a></b></li>
+</ul>
+<p><center><b><h2>coronavirus graphic image</h2></b></center></p>
+<p><center><img src="https://region8today.ieeer8.org/wp-content/uploads/sites/4/2020/05/ieee-hac-covid19.png" alt="coronaviruse" width="1000" height="250"></center></p>
+<hr></hr>
+<p><center>This site provide for you free informations about coronavirus</center></p>
+</body>
+</html>
